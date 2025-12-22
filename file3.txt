@@ -1,0 +1,3 @@
+HI file2.txt how i made changes 
+
+in file2 previously
