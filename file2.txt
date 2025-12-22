@@ -1,0 +1,3 @@
+hi this is my first 
+test script in git
+how to push to remote reposotery
