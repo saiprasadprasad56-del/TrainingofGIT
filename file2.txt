@@ -3,3 +3,5 @@ test script in git
 how to push to remote reposotery
 
 adding new line to check 
+
+example to merge in master
