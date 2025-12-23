@@ -4,5 +4,6 @@ how to push to remote reposotery
 
 adding new line to check 
 
-example to merge in master1
+example to merge in master
+
 
